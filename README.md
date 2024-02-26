@@ -1,5 +1,5 @@
 ## GFF-Fasta-Extractor
-
+ 
 #### Step 1: Check for the Shebang Line. Default is:
 &ensp; ``` !#/usr/bin/python3 ```  &emsp; &ensp; # or\
 &ensp; ``` !#/usr/bin/env python3 ``` 
